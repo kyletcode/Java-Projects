@@ -3,7 +3,7 @@
 // Date Submitted: November 29, 2022
 // Program Name: Student Registration System
 // Program Description: Student registration system allows a staff such as a advisor to input student and course information into
-// system that then stores the information put in by the advisor.
+// system that then stores the information.
 
 
 
